@@ -16,7 +16,7 @@ export const siteConfig: SiteConfig = {
   },
   banner: {
     enable: true,
-    src: 'assets/images/demo-banner.png',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+    src: 'assets/images/demo-banner.webp',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
     position: 'center', // Equivalent to object-position, defaults center
     credit: {
       enable: false,         // Display the credit text of the banner image
@@ -49,7 +49,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/demo-avatar.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: 'Toni Bundi',
-  bio: 'Energiebündel mit viel Humor und Liebe für meine Familie, Freunde und Natur. Women Power ♀️',
+  bio: 'Energiebündel mit viel Humor und Liebe für meine Familie, Freunde und Natur. Women Power🌈🦄🤸',
   links: [
     {
       name: 'Twitter',
