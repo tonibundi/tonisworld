@@ -8,4 +8,4 @@ category: 'Blog'
 draft: false 
 ---
 
-Hi ihr lieben, das ist nun bereits mein zweiter post 🎉
+Hi ihr lieben, das ist nun bereits mein zweiter post 🎉 yuhu 😜
