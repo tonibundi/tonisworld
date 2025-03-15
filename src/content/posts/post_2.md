@@ -2,7 +2,7 @@
 title: Getting the hang of it
 published: 2025-03-15
 description: 'Mein zweiter post'
-image:
+image: ''
 tags: [Blog]
 category: 'Blog'
 draft: false 
