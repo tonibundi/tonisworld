@@ -1,77 +1,17 @@
 ---
-title: Markdown Extended Features
-published: 2024-05-01
-description: 'Read more about Markdown features in Fuwari'
+title: Hello World
+published: 2025-03-15
+description: 'Intro post zum start meiner persönlichen website'
 image: ''
-tags: [Demo, Example, Markdown, Fuwari]
-category: 'Examples'
+tags: [Blog]
+category: 'Blog'
 draft: false 
 ---
 
-## GitHub repository cards
-You can add dynamic cards that link to GitHub repositories, on page load, the repository information is pulled from the GitHub API. 
+Hi liebe welt ich bin Toni und starte jetzt mit meiner Website. 
 
-::github{repo="Fabrizz/MMM-OnSpotify"}
-
-Create a GitHub repository card with the code `::github{repo="<owner>/<repo>"}`.
-
-```markdown
-::github{repo="saicaca/fuwari"}
-```
-
-## Admonitions
-
-Following types of admonitions are supported: `note` `tip` `important` `warning` `caution`
-
-:::note
-Highlights information that users should take into account, even when skimming.
-:::
-
-:::tip
-Optional information to help a user be more successful.
-:::
-
-:::important
-Crucial information necessary for users to succeed.
-:::
-
-:::warning
-Critical content demanding immediate user attention due to potential risks.
-:::
-
-:::caution
-Negative potential consequences of an action.
-:::
-
-```markdown
-:::note
-Highlights information that users should take into account, even when skimming.
-:::
-
-:::tip
-Optional information to help a user be more successful.
-:::
-```
-
-The title of the admonition can be customized.
-
-:::note[MY CUSTOM TITLE]
-This is a note with a custom title.
-:::
-
-```markdown
-:::note[MY CUSTOM TITLE]
-This is a note with a custom title.
-:::
-```
-
-> [!TIP]
-> [The GitHub syntax](https://github.com/orgs/community/discussions/16925) is also supported.
-
-```
 > [!NOTE]
-> The GitHub syntax is also supported.
+> Ich scheisse auf rechtschreibung!
 
 > [!TIP]
-> The GitHub syntax is also supported.
-```
+> Probiere das doch auch einmal!
