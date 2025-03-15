@@ -2,7 +2,7 @@
 title: Hello World
 published: 2025-03-15
 description: 'Intro post zum start meiner persönlichen website'
-image: ''
+image: 'images/IMG_1181.jpeg'
 tags: [Blog]
 category: 'Blog'
 draft: false 
