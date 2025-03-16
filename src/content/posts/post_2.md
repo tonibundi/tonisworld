@@ -7,7 +7,6 @@ tags: [Blog]
 category: 'Blog'
 draft: false 
 ---
-''
 Hi Leute, mein Haupt Thema heute ist Umweltverschmutzung.wisst ihr wie sehr wir die Natur kaputt machen? 
 zum beispiel fliegen wir zu oft mit Flugzeugen,oder spritzen unsere Felder mit ungesunden spritz mittel,und das 
 ist dann auch für uns ungesund, und und und… ich probiere auch weniger Plastik Schrott zu kaufen,oder die sachen 
