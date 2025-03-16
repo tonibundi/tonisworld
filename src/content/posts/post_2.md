@@ -18,4 +18,4 @@ a) der Wal b) das Reh c) das Eichhörnchen d) die Biene
 richtig ist antwort d) die biene ist sehr wichtig für unsere Umwelt. sie bestäubt Pflanzen und die wiederum 
 geben uns dann Sauerstoff. besser gesagt wir atmen o2 (oder Sauerstoff) ein und Co2 aus,bei den Bäumen ist es 
 genau anders rum sie atmen Co2 ein und o2 (oder Sauerstoff) aus. 
-Ich hoffe ihr fandets interessant TONI 
+Ich hoffe ihr fandets interessant eure TONI 
